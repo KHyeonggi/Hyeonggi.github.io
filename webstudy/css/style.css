@@ -45,6 +45,7 @@ div.main{
     border-radius: 10px;
     margin: 10px;
     padding: 5px 2px 5px 2px;
+    background-image: url("");
 }
 div:hover button{
     color: rgb(165, 42, 42);
