@@ -5,6 +5,8 @@ subtitle: BMW 3시리즈
 author: BMW
 categories: D-Segment
 banner:
+  video: \assets\videos\The New C-Class Sedan_ A New Form of Comfort.mp4
+  loop: true
   image: https://cdn.manzlab.com/news/photo/202002/4729_10315_315.jpg
   opacity: 0.618
   background: "#000"

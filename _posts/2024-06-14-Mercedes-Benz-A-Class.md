@@ -6,10 +6,7 @@ subtitle: CLASS FOR EVERY DAY.
 author: Mercedes-Benz
 categories: C-Segment
 banner:
-  video: |
-    <video width="100%" height="100%" autoplay loop muted>
-      <source src="../assets/videos/The%20New%20C-Class%20Sedan_%20A%20New%20Form%20of%20Comfort.mp4" type="video/mp4">
-    </video>
+  
   image: https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/a-class/overview/_jcr_content/root/responsivegrid/hotspot_module_copy/hotspot_simple_image.component.damq6.3380050197077.jpg/mercedes-benz-a-class-v177-exterior-hotspot-3302x1858-03-2023.jpg
   opacity: 0.618
   background: "#000"
