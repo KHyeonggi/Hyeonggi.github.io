@@ -1,8 +1,8 @@
 ---
 layout: post
 title: C-Class Sedan
-subtitle: BMW 3시리즈
-author: BMW
+subtitle: 가장 이상적인 공간의 탄생.
+author: Mercedes-Benz
 categories: D-Segment
 banner:
   video: \assets\videos\The New C-Class Sedan_ A New Form of Comfort.mp4
@@ -14,51 +14,56 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: BMW D-Segment
+tags: Mercedes-Benz D-Segment
 sidebar: []
 ---
 
-## BMW 3시리즈는 새로운 스포츠카 디자인과 첨단 기술이 적용되어 운전자에게 탁월한 주행 역동성을 제공합니다.
+## 가장 이상적인 공간의 탄생.
 
- * 견고한 스프링과 댐퍼 디자인이 적용된 M 스포츠 서스펜션으로 직접적이고 민첩한 주행
- * 모든 상황에서 최적의 승차감을 제공하는 후진 보조 및 지능형 운전자 지원 시스템 
- * 운전자 중심 콕핏 및 터치 기반 작동의 혁신적인 BMW 커브드 디스플레이
+ * 날렵하면서도 우아한 디자인, 한층 더 진보한 안전성, 그리고 럭셔리한 인테리어까지.
+The new C-Class는 당신을 위한 가장 이상적인 공간이 되어줄 것입니다.
 
+### The new C-Class의 인테리어
+* The new C-Class가 추구하는 인테리어의 모던 럭셔리는 결국 혁신적인 편리함으로 연결됩니다.
+* 11.9인치 LED 센트럴 디스플레이와 와이드 스크린 콕핏의 미래지향적인 무드와 함께 전에 없던 편리함을 경험해 보세요.
 
+![example image](https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/c-class/overview/_jcr_content/root/responsivegrid/tabs_1344672560/tabitem/hotspot_module/hotspot_simple_image.component.damq4.3327839580108.jpg/mercedes-benz-c-class-w206-interior-cockpit-hotspot-360-3302x1858-06-2022.jpg "")
 
-![example image](https://autoimg.danawa.com/gallery/4364/20220921_4364%20(1).jpg?resize=800:* "3시리즈")
-### 320i M Sport (A/T) 
+### The new C-Class의 익스테리어
+* The new C-Class는 간결한 라인과 정교하게 조각된 곡선으로 우아한 자태를 만들어내는 동시에, 다이내믹함이 돋보이게 디자인되었습니다. 특히 전면부와 확장된 휠베이스, 파워돔에서 느껴지는 역동감을 함께 감상해 보세요.
+![example image](https://autoimg.danawa.com/gallery/4037/20221214_4037%20(150).jpg?resize=800:* "ACLASS")
+
+### C200 Avantgarde (A/T) 
 
 | 엔진                   | -             |
 | --------------------- | --------------------- |
 | 엔진형식               | 직렬 4기통	         |
 | 연료 | 가솔린 |
-| 배기량 | 1,998 cc |
-| 최고출력 | 184/5,000 ps/rpm | 
-| 최대토크 | 30.6/1,400~4,200 kg.m| 
-| 공회전 제한장치 | 오토 스타트/스톱 | 
-| 친환경 | 저공해 3종 | 
+| 배기량 | 1,999 cc |
+| 최고출력 | 204/6,100 ps/rpm | 
+| 최대토크 | 32.6/2,000~4,000 kg.m/rpm| 
+| 친환경 | 저공해 2종 | 
 
 | 연비                   | -             |
 | --------------------- | --------------------- |
-| 복합연비| 11.2 km/ℓ        |
-| 도심연비| 9.9 km/ℓ |
-| 고속연비 | 13.5 km/ℓ|
-| CO₂ 배출 | 149 g/km | 
-| 에너지소비효율 | 4 등급| 
+| 복합연비| 11.7 km/ℓ|
+| 도심연비| 10.2 km/ℓ|
+| 고속연비 | 14.0 km/ℓ|
+| CO₂ 배출 | 145 g/km| 
+| 에너지소비효율 | 3 등급| 
 
 | 제원                  | -             |
 | --------------------- | --------------------- |
-| 전장 |4,715 mm    |
-|전폭 | 1,825 mm |
+| 전장 |4,755 mm    |
+|전폭 | 1,820 mm|
 | 전고  |1,440 mm|
-|축거  |2,850 mm|
+|축거  |2,865 mm|
 | 승차정원 | 5 | 
-| 공차중량 | 1,635 kg|
-| 연료탱크| 59 ℓ  |
-| 트렁크 (후) 용량| 480 ℓ |
+| 공차중량 | 1,705 kg|
+| 연료탱크| 66 ℓ  |
+| 트렁크 (후) 용량| 455 ℓ |
 
 | 성능                | -             |
 | --------------------- | --------------------- |
-| 제로백| 7.4 초   |
-|최고속도 | 235 km/h |
+| 제로백| 7.1 초  |
+|최고속도 | 241 km/h|

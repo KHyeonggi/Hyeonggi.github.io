@@ -6,7 +6,6 @@ subtitle: CLASS FOR EVERY DAY.
 author: Mercedes-Benz
 categories: C-Segment
 banner:
-  
   image: https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/a-class/overview/_jcr_content/root/responsivegrid/hotspot_module_copy/hotspot_simple_image.component.damq6.3380050197077.jpg/mercedes-benz-a-class-v177-exterior-hotspot-3302x1858-03-2023.jpg
   opacity: 0.618
   background: "#000"
@@ -28,8 +27,7 @@ The new A-Class Sedan은 메르세데스-벤츠의 소형 프리미엄 세단의
 
 ![example image](https://autoimg.danawa.com/gallery/4427/20221006_4427%20(7).jpg?resize=800:* "A 클래스 해치백 세단")
 
-![video](assets\videos\devstories.webm)
-![video](../assets/videos/The%20New%20C-Class%20Sedan_%20A%20New%20Form%20of%20Comfort.mp4)
+![video](\assets\videos\The New C-Class Sedan_ A New Form of Comfort.mp4)
 
 ### A220 Sedan (A/T)
 
