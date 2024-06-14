@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new A-Class Sedan
+title: The new A-Class
 subtitle: CLASS FOR EVERY DAY.
 
 author: Mercedes-Benz
@@ -22,8 +22,10 @@ sidebar: []
 ### CLASS FOR EVERY DAY.
 The new A-Class Sedan은 메르세데스-벤츠의 소형 프리미엄 세단의 품격을 제시합니다. 우아하며 스포티한 디자인과 럭셔리 클래스의 편안함, 정교한 기술력으로 일상에 특별함을 더해보세요.
 
-![example image](https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/a-class/overview/_jcr_content/root/responsivegrid/media_slider/media_slider_item_920359985/image.component.damq4.3395391927724.jpg/the-new-alcss-sedan-highlight-interior.jpg "A 클래스 내장")
+
 ![example image](https://autoimg.danawa.com/gallery/4427/20221006_4427%20(7).jpg?resize=800:* "A 클래스 해치백 세단")
+![example image](https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/a-class/overview/_jcr_content/root/responsivegrid/media_slider/media_slider_item_920359985/image.component.damq4.3395391927724.jpg/the-new-alcss-sedan-highlight-interior.jpg "A 클래스 내장")
+
 
 ### A220 Sedan (A/T)
 
@@ -56,6 +58,6 @@ The new A-Class Sedan은 메르세데스-벤츠의 소형 프리미엄 세단의
 
 | 성능                | -             |
 | --------------------- | --------------------- |
-| 제로백| 7.0 초   |
-|최고속도 | 241 km/h |
+| 제로백  | 7.0 초   |
+| 최고속도 | 241 km/h |
 
