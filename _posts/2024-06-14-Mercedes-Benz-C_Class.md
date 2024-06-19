@@ -7,7 +7,7 @@ categories: D-Segment
 banner:
   video: \assets\videos\The New C-Class Sedan_ A New Form of Comfort.mp4
   loop: true
-  image: https://cdn.manzlab.com/news/photo/202002/4729_10315_315.jpg
+  image: https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/c-class/overview/_jcr_content/root/responsivegrid/simple_stage.component.damq6.3372847180923.jpg/mercedes-benz-c-class-w206-stage-3840x1707-06-2022.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
