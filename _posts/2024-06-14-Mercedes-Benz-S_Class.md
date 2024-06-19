@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The new E-Class
-subtitle: EVOLVES WITH YOU.
+title: C-Class Sedan
+subtitle: 가장 이상적인 공간의 탄생.
 author: Mercedes-Benz
-categories: E-Segment
+categories: D-Segment
 banner:
   video: \assets\videos\The New C-Class Sedan_ A New Form of Comfort.mp4
   loop: true
-  image: https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/w213-22-2/overview/_jcr_content/root/responsivegrid/simple_stage_copy_co.component.damq4.3422934230495.jpg/the-new-eclass-kv.jpg
+  image: https://cdn.manzlab.com/news/photo/202002/4729_10315_315.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
