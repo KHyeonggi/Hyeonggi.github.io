@@ -1,13 +1,13 @@
 ---
 layout: post
-title: C-Class Sedan
-subtitle: 가장 이상적인 공간의 탄생.
+title: The new E-Class
+subtitle: EVOLVES WITH YOU.
 author: Mercedes-Benz
-categories: D-Segment
+categories: E-Segment
 banner:
   video: \assets\videos\The New C-Class Sedan_ A New Form of Comfort.mp4
   loop: true
-  image: https://cdn.manzlab.com/news/photo/202002/4729_10315_315.jpg
+  image: https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/w213-22-2/overview/_jcr_content/root/responsivegrid/simple_stage_copy_co.component.damq4.3422934230495.jpg/the-new-eclass-kv.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -27,11 +27,11 @@ The new C-Class는 당신을 위한 가장 이상적인 공간이 되어줄 것�
 * The new C-Class가 추구하는 인테리어의 모던 럭셔리는 결국 혁신적인 편리함으로 연결됩니다.
 * 11.9인치 LED 센트럴 디스플레이와 와이드 스크린 콕핏의 미래지향적인 무드와 함께 전에 없던 편리함을 경험해 보세요.
 
-![example image](https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/c-class/overview/_jcr_content/root/responsivegrid/tabs_1344672560/tabitem/hotspot_module/hotspot_simple_image.component.damq4.3327839580108.jpg/mercedes-benz-c-class-w206-interior-cockpit-hotspot-360-3302x1858-06-2022.jpg "C인테리어")
+![example image](https://www.mercedes-benz.co.kr/content/south-korea/ko/passengercars/models/saloon/c-class/overview/_jcr_content/root/responsivegrid/tabs_1344672560/tabitem/hotspot_module/hotspot_simple_image.component.damq4.3327839580108.jpg/mercedes-benz-c-class-w206-interior-cockpit-hotspot-360-3302x1858-06-2022.jpg "")
 
 ### The new C-Class의 익스테리어
 * The new C-Class는 간결한 라인과 정교하게 조각된 곡선으로 우아한 자태를 만들어내는 동시에, 다이내믹함이 돋보이게 디자인되었습니다. 특히 전면부와 확장된 휠베이스, 파워돔에서 느껴지는 역동감을 함께 감상해 보세요.
-![example image](https://autoimg.danawa.com/gallery/4037/20221214_4037%20(150).jpg?resize=800:* "C익스테리어")
+![example image](https://autoimg.danawa.com/gallery/4037/20221214_4037%20(150).jpg?resize=800:* "ACLASS")
 
 ### C200 Avantgarde (A/T) 
 
